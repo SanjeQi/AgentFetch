@@ -1,0 +1,25 @@
+{
+  "agents": [
+    {
+      "name": "James Bond",
+      "email": "james@mi6.com",
+      "status": "007",
+      "image": "https://gq-images.condecdn.net/image/p3EJavVVazP/crop/1620/landscape/f/Heineken-James-Bond-HP-GQ-21Aug15-pr_b.jpg",
+      "id": 2
+    },
+    {
+      "name": "Ethan Hunt",
+      "email": "ethan@imf.com",
+      "status": "Disavowed",
+      "image": "https://i0.wp.com/culturedvultures.com/wp-content/uploads/2018/09/Ethan-Hunt.jpg",
+      "id": 3
+    },
+    {
+      "name": "Jason Bourne",
+      "email": "jason@treadstone.com",
+      "status": "MIA",
+      "image": "https://cdn.vox-cdn.com/thumbor/icEHB5odMRtLvA1Od3sfMlzaWFs=/33x0:747x476/1200x800/filters:focal(33x0:747x476)/cdn.vox-cdn.com/uploads/chorus_image/image/38600666/bourne-matt-damon.0.0.jpg",
+      "id": 4
+    }
+  ]
+}
